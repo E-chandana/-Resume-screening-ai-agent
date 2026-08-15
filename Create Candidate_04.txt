@@ -1,0 +1,5 @@
+Name: Arjun Singh
+Education: B.E. Computer Science
+Skills: Java, HTML, CSS, JavaScript, React, SQL
+Projects: E-commerce website
+Experience: Web Development Internship

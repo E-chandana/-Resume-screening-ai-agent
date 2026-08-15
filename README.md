@@ -64,6 +64,18 @@ Each candidate contains:
 - Relevance score
 - Matched skills
 - Missing skills
+  
+## Installation & Usage
+
+Install the required libraries:
+
+pip install -r requirements.txt
+
+Run the agent:
+
+python main.py
+
+The agent reads resumes from the `resumes` folder, compares them with the job description, ranks the candidates, and saves the results in `ranked_candidates.csv`.
 
 ## Limitations
 

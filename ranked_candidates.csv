@@ -1,0 +1,11 @@
+Rank,Candidate,Score,Matched Skills,Missing Skills
+1,Candidate_09,80.71,"tensorflow, opencv, pandas, scikit-learn, deep learning, machine learning, numpy, sql, python, nlp",
+2,Candidate_01,74.41,"tensorflow, pandas, scikit-learn, machine learning, numpy, sql, python, nlp","deep learning, opencv"
+3,Candidate_03,72.49,"tensorflow, opencv, pandas, deep learning, numpy, python, nlp","machine learning, scikit-learn, sql"
+4,Candidate_07,70.96,"tensorflow, opencv, deep learning, machine learning, numpy, sql, python, nlp","scikit-learn, pandas"
+5,Candidate_05,59.92,"pandas, scikit-learn, machine learning, sql, python, nlp","numpy, deep learning, tensorflow, opencv"
+6,Candidate_02,56.9,"pandas, numpy, sql, python, machine learning","tensorflow, opencv, scikit-learn, deep learning, nlp"
+7,Candidate_10,48.43,"python, sql","tensorflow, opencv, pandas, scikit-learn, deep learning, machine learning, numpy, nlp"
+8,Candidate_08,42.03,"python, sql","tensorflow, opencv, pandas, scikit-learn, deep learning, machine learning, numpy, nlp"
+9,Candidate_04,36.89,sql,"tensorflow, opencv, pandas, scikit-learn, deep learning, machine learning, numpy, python, nlp"
+10,Candidate_06,32.08,,"tensorflow, opencv, pandas, scikit-learn, deep learning, nlp, numpy, sql, python, machine learning"

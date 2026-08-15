@@ -1,0 +1,5 @@
+Name: Meena Joshi
+Education: B.Tech Artificial Intelligence
+Skills: Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, NLP, OpenCV, SQL
+Projects: Medical Image Classification and NLP Chatbot
+Experience: AI/ML Internship

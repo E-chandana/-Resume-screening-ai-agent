@@ -1,0 +1,5 @@
+Name: Vijay Kumar
+Education: B.Tech Mechanical Engineering
+Skills: Python, SQL, Excel
+Projects: Data Analysis using Python
+Experience: No professional experience

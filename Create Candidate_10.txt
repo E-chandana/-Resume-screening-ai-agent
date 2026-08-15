@@ -1,0 +1,5 @@
+Name: Sneha Rao
+Education: B.Tech Computer Science
+Skills: Python, Machine Learning, Scikit-learn, Pandas, SQL, NLP
+Projects: Customer Sentiment Analysis and Churn Prediction
+Experience: Data Science Internship

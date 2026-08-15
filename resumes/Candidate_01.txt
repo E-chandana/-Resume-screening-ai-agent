@@ -1,0 +1,5 @@
+Name: Ananya Sharma
+Education: B.Tech Computer Science
+Skills: Python, Machine Learning, TensorFlow, Pandas, NumPy, Scikit-learn, NLP, SQL
+Projects: House Price Prediction and Sentiment Analysis
+Experience: AI/ML Internship

@@ -1,0 +1,5 @@
+Name: Priya Reddy
+Education: B.Tech Information Science
+Skills: Python, Deep Learning, TensorFlow, NLP, OpenCV, NumPy, Pandas
+Projects: Air Canvas using OpenCV and Transformer based text recognition
+Experience: AI Internship

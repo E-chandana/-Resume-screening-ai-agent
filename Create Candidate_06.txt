@@ -1,0 +1,5 @@
+Name: Divya Nair
+Education: B.Tech Computer Science
+Skills: Python, TensorFlow, Deep Learning, Machine Learning, NumPy, OpenCV, NLP, SQL
+Projects: Image Classification and Face Detection
+Experience: Machine Learning Internship

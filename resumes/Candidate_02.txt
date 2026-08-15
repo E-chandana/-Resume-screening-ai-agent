@@ -1,0 +1,5 @@
+Name: Rahul Kumar
+Education: B.Tech Computer Science
+Skills: Python, SQL, Pandas, NumPy, Machine Learning
+Projects: Sales Prediction using Python
+Experience: Academic projects

@@ -1,0 +1,5 @@
+Name: Rohit Verma
+Education: B.Tech Computer Science
+Skills: Python, Java, SQL, Git, HTML, CSS
+Projects: Student Management System
+Experience: Software Development Internship
